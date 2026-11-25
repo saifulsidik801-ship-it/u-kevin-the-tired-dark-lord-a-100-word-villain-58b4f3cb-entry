@@ -1,3 +1,5 @@
+// Kevin: 100-word villain monologue — writes the entry to /output/entry.txt (1-600 chars).
+// Judge scores the monologue alone; the tiredness lives in the rhythm, not in stating it.
 // The Tired Dark Lord: A 100-Word Villain Monologue
 // make.fun bounty u-kevin-the-tired-dark-lord-a-100-word-villain-58b4f3cb
 //
